@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GameFormatUtil")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Vatuu's Nintendo File Library")]
+[assembly: AssemblyDescription("A C# Library for all kinds of Nintendo's internal file formats.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GameFormatUtil")]
-[assembly: AssemblyCopyright("Copyright ©Vatuu 2017")]
+[assembly: AssemblyProduct("NintendoFileLibrary")]
+[assembly: AssemblyCopyright("Copyright ©Vatuu 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
